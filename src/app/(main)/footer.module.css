@@ -1,0 +1,5 @@
+.Footer {
+  @media (max-width: 600px) {
+    left: 0;
+  }
+}
